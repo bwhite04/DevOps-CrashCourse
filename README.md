@@ -1,2 +1,2 @@
-# DevOps-CrashCourse
+# DevOps Crash Course Lab 
 ### ***Bilyi Maksym***
